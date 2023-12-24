@@ -6,7 +6,7 @@ Here you can find the drivers pack i have used for my jdbmig utility https://git
 
 Drivers description:
 <ul>
-  <li><nformix driver:  ifxjdbc.jar</li>
+  <li>Informix driver:  ifxjdbc.jar</li>
   <li>Mysql driver:     mysql-5.1.18.jar</li>
   <li>Oracle driver:    ojdbc8.jar</li>
   <li>Postgres driver:  pgsql-42.2.15.jar</li>

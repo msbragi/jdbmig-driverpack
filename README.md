@@ -10,5 +10,5 @@ Drivers description:
   <li>Mysql driver:     mysql-5.1.18.jar</li>
   <li>Oracle driver:    ojdbc8.jar</li>
   <li>Postgres driver:  pgsql-42.2.15.jar</li>
-  <li><SQLite driver:    sqlite-jdbc-3.32.3.8.jar</li>
+  <li>SQLite driver:    sqlite-jdbc-3.32.3.8.jar</li>
 </ul>
